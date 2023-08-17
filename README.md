@@ -1,5 +1,6 @@
 # Relationship Between Danceability and Number of Weeks on Chart
 
+DSO 510: Business Analytics - Group Project
 # Introduction 
 What is the similarity between “The Next Episode” by Dr Dre and “Every Breath You Take” by The Police? Both songs have a danceability score of 0.8/1 and above. According to Spotify, danceability is defined as “how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity.” With the rise of TikTok, the danceability of a song became more evident when it is featured in a myriad of short videos, often associated with trends or dance challenges. For example, HUMBLE. by Kendrick Lamar, has a danceability score of 0.9/1 and is featured 761,000 times on TikTok videos; with a peak rank of 1 on Spotify and stayed on the charts for 96 weeks. Parallely, we question whether the danceability of the song contributes to its popularity, which in turn impacts the length of time the song stays on the chart. Hence, we seek to answer the question, “Is there a relationship between danceability and the length of time a song spends on chart?”.
 	
